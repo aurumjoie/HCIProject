@@ -1,0 +1,18 @@
+#helloteamdiv {
+    width: 100%;
+    height:100%;
+}
+
+#maintitle {
+    font-size: 50px;
+    text-align: center;
+    padding: 0, 20, 0, 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#subtitle {
+    font-size: 25px;
+    text-align: center;
+    padding: 0, 20, 0, 0;
+    font-family: 'Courier New', Courier, monospace;
+}
