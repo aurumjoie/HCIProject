@@ -36,10 +36,10 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#About">Bus Booking</a>
+              <a class="nav-link js-scroll-trigger" href="#about">Bus Booking</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#shuttles">Shuttles</a>
+              <a class="nav-link js-scroll-trigger" href="shuttles.php">Shuttles</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#tripadvisory">Trip advisory</a>
@@ -56,7 +56,7 @@
           <div class="row">
             <div class="col-lg-8 mx-auto">
               <h1 class="brand-heading">eManamba</h1>
-              <p class="intro-text">Safiri nasi
+              <p class="intro-text">Safiri Nasi
                 <br>Safiri Salama</p>
               <a href="#about" class="btn btn-circle js-scroll-trigger">
                 <i class="fa fa-angle-double-down animated"></i>
