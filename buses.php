@@ -21,7 +21,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>eManamba | Shuttles</title>
+    <title>eManamba | Buses</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
@@ -47,7 +47,7 @@
     </script>
 </head>
 
-<body id="page-top" style="background-color:white;color:black" >
+<body id="page-top" style="background-color:white;color:black;" >
 
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
@@ -77,7 +77,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-8 mx-auto">
-            <h5>Find a shuttle :</h5>
+            <h5>Find a bus :</h5>
             <p>
                 <form method="POST" class="form-control" enctype="multipart/form-data" >
                     <div class="form-check form-check-inline">
@@ -140,7 +140,7 @@
                             <input type="number" class="form-control" placeholder="Number of passengers" max="5" min="1" name="numPass" required>
                         </div>
                         <div class="col-sm-5" >
-                            <button type="submit" class="btn btn-primary mb-2" name="find_shuttle_btn" >Find Shuttle</button>
+                            <button type="submit" class="btn btn-primary mb-2" name="find_shuttle_btn" >Find Bus</button>
                         </div>
                     </div>
                 </form>
